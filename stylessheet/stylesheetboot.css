@@ -1,0 +1,31 @@
+body {
+    padding: 0px;
+    margin: 0px;
+     background-repeat: no-repeat;
+     background-size:cover;
+}
+ :root {    
+    /* FIXME: Les variables pour les couleurs ne sont pas nommés correctement, c'est seulement pour vous donner la liste des différentes couleurs. */
+    --color-1: hsl(158 100% 23%);
+    --color-2: hsl(144, 68%, 84%);
+    --color-3: hsl(21, 75%, 65%);
+    --color-4: hsl(190, 43%, 35%);
+    --color-5: hsl(19, 66%, 80%);
+    --color-6: hsl(164, 31%, 17%);
+    --color-7: hsl(0, 0%, 0%);
+    --color-8: hsla(0, 0%, 0%, 0.58);
+}
+.container_1 {
+    background-color: hsl(144, 68%, 84%);
+    text-align: center;
+    color: #000;
+ }
+ .container_2 {
+    background-color: hsl(21, 75%, 65%);
+    text-align: center;
+    color: #000;
+ }
+ footer {
+   background-color: #C23190;
+   text-align: center;
+}
